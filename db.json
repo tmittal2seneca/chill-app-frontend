@@ -1,0 +1,205 @@
+{
+    "homePageImages": 
+    [ 
+        { 
+            "id": 1, 
+            "path": "FeaturedFilm1.jpg",
+            "footerText": "WATCH FREE",
+            "featuredFilm": true
+        },
+        { 
+            "id": 2, 
+            "path": "FeaturedFilm2.jpg",
+            "footerText": "EARLY ACCESS",
+            "featuredFilm": true
+        },
+        { 
+            "id": 3, 
+            "path": "FeaturedFilm3.jpg",
+            "footerText": "EARLY ACCESS",
+            "featuredFilm": true
+        },
+        { 
+            "id": 4, 
+            "path": "FeaturedFilm4.jpg",
+            "footerText": "EARLY ACCESS",
+            "featuredFilm": true
+
+        },
+        { 
+            "id": 5, 
+            "path": "FeaturedFilm5.jpg",
+            "footerText": "MOST POPULAR",
+            "featuredFilm": true
+        },
+        { 
+            "id": 6, 
+            "path": "FeaturedFilm6.jpg",
+            "footerText": "TOP RATED",
+            "featuredFilm": true
+        },
+        { 
+            "id": 7, 
+            "path": "NewReleases1.jpg",
+            "footerText": "FREE WITH ADS",
+            "newReleases": true
+        },
+        { 
+            "id": 8, 
+            "path": "NewReleases2.jpg",
+            "footerText": "FREE WITH ADS",
+            "newReleases": true
+        },
+        { 
+            "id": 9, 
+            "path": "NewReleases3.png",
+            "footerText": "FREE WITH ADS",
+            "newReleases": true
+        },
+        { 
+            "id": 10, 
+            "path": "NewReleases4.jpg",
+            "footerText": "FREE WITH ADS",
+            "newReleases": true
+        },
+        { 
+            "id": 11, 
+            "path": "NewReleases5.jpg",
+            "footerText": "FREE WITH ADS",
+            "newReleases": true
+        },
+        { 
+            "id": 12, 
+            "path": "NewReleases6.jpg",
+            "footerText": "FREE WITH ADS",
+            "newReleases": true
+        }
+    ],
+    "movieListings": 
+    [ 
+        { 
+            "id": 1, 
+            "path": "mwt1.jpg",
+            "className": "gallery__item gallery__item--1"
+        },
+        { 
+            "id": 2, 
+            "path": "mwt2.jpg",
+            "className": "gallery__item gallery__item--2"
+        },
+        { 
+            "id": 3, 
+            "path": "mwt3.jpg",
+            "className": "gallery__item gallery__item--3"
+        },
+        { 
+            "id": 4, 
+            "path": "mwt4.jpg",
+            "className": "gallery__item gallery__item--4"
+        },
+        { 
+            "id": 5, 
+            "path": "mwt5.jpg",
+            "className": "gallery__item gallery__item--5"
+        },
+        { 
+            "id": 6, 
+            "path": "mwt6.jpg",
+            "className": "gallery__item gallery__item--6"
+        },
+        { 
+            "id": 7, 
+            "path": "mwt7.jpg",
+            "className": "gallery__item gallery__item--7"
+        },
+        { 
+            "id": 8, 
+            "path": "mwt8.jpg",
+            "className": "gallery__item gallery__item--8"
+        },
+        { 
+            "id": 9, 
+            "path": "mwt9.jpg",
+            "className": "gallery__item gallery__item--9"
+        },
+        { 
+            "id": 10, 
+            "path": "mwt10.jpg",
+            "className": "gallery__item gallery__item--10"
+        },
+        { 
+            "id": 11, 
+            "path": "mwt11.jpg",
+            "className": "gallery__item gallery__item--11"
+        },
+        { 
+            "id": 12, 
+            "path": "mwt12.jpg",
+            "className": "gallery__item gallery__item--12"
+        }
+    ],
+    "tvListings": 
+    [ 
+        { 
+            "id": 1, 
+            "path": "twt1.jpg",
+            "className": "gallery__item gallery__item--1"
+        },
+        { 
+            "id": 2, 
+            "path": "twt2.jpg",
+            "className": "gallery__item gallery__item--2"
+        },
+        { 
+            "id": 3, 
+            "path": "twt3.jpg",
+            "className": "gallery__item gallery__item--3"
+        },
+        { 
+            "id": 4, 
+            "path": "twt4.jpg",
+            "className": "gallery__item gallery__item--4"
+        },
+        { 
+            "id": 5, 
+            "path": "twt5.jpg",
+            "className": "gallery__item gallery__item--5"
+        },
+        { 
+            "id": 6, 
+            "path": "twt6.jpg",
+            "className": "gallery__item gallery__item--6"
+        },
+        { 
+            "id": 7, 
+            "path": "twt7.jpg",
+            "className": "gallery__item gallery__item--7"
+        },
+        { 
+            "id": 8, 
+            "path": "twt8.jpg",
+            "className": "gallery__item gallery__item--8"
+        },
+        { 
+            "id": 9, 
+            "path": "twt9.jpg",
+            "className": "gallery__item gallery__item--9"
+        },
+        { 
+            "id": 10, 
+            "path": "twt10.jpg",
+            "className": "gallery__item gallery__item--10"
+        },
+        { 
+            "id": 11, 
+            "path": "twt11.jpg",
+            "className": "gallery__item gallery__item--11"
+        },
+        { 
+            "id": 12, 
+            "path": "twt12.jpg",
+            "className": "gallery__item gallery__item--12"
+        }
+    ]
+
+  }
