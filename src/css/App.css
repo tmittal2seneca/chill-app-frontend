@@ -72,28 +72,18 @@ header button {
 .content-section-border{
   border-color: darkslategray;
   border-style: solid;
-  width: 1600px;
-  margin-left: 30px;
   background-image: url("../images/ContentSectionbgImage.jpg");
 }
 
 .content-section-border label{
   color: gold;
   font-size: xxx-large;
-  margin-left: 50px;
-  margin-top: 50px;
   font-weight: bolder;
   font-family: Verdana;
 }
 
 .space{
   height: 20px;
-}
-
-
-.column {
-  padding: 5px;
-  float:right;
 }
 
 .box-image{
@@ -339,7 +329,7 @@ header button {
 
 .synopsis {
   grid-column-start: 3;
-  grid-column-end: 5;
+  grid-column-end: 6;
   grid-row-start: 2;
   grid-row-end: 3;
 }
@@ -365,10 +355,11 @@ header button {
   grid-row-end: 6;
 }
 
-.detailsPage h1{
+.detailsPage h4{
   font-family: Verdana;
 }
 
 .detailsPage label{
   font-family: Verdana;
+  font-size: small;
 }

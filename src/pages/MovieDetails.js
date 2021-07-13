@@ -16,13 +16,13 @@ const MovieDetails = () => {
                 return movieListing.id === selectedID &&
                 <div className="detailsPage">
                     <img className="details-img small-poster mt-4 ml-4" src={movieListing.path} />
-                    <h2 className="title-name text-light mt-4 ml-4">{movieListing.title}</h2>
+                    <h4 className="title-name text-light mt-4 ml-4">{movieListing.title}</h4>
                     <label className="synopsis text-light ml-4">{movieListing.synopsis}</label>
                     <figure class="large-poster">
                         <img className="details-img mt-4" src={movieListing.largeposter} />
                     </figure>
-                    <button className="rent-price text-light bg-primary w-50 h-50">Rent ${movieListing.rentprice}</button>
-                    <button className="purchase-price text-light bg-primary w-50 h-50">Buy ${movieListing.purchaseprice}</button>
+                    <button className="rent-price text-light bg-primary w-75 h-50">Rent ${movieListing.rentprice}</button>
+                    <button className="purchase-price text-light bg-primary w-75 h-50">Buy ${movieListing.purchaseprice}</button>
                     </div>
             })}
             
