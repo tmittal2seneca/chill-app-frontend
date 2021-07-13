@@ -86,9 +86,9 @@ header button {
   height: 20px;
 }
 
-.box-image{
+.img-responsive{
   height: 220px;
-  width: 180px;
+  width: 120px;
 }
 
 /* Footer */

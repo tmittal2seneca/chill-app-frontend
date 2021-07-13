@@ -14,22 +14,22 @@ const ContentSection = () => {
                 <div className="content-section-border h-100">
                     <label className="ml-5 mt-4">BIG SUMMER<br></br>SALE</label>
                         <div className="column pt-1 pr-1 float-right">                           
-                            <img className="box-image" src={img1} alt="Snow"/>
+                            <img className="box-image img-responsive" src={img1} alt="Snow"/>
                         </div>
                         <div className="column pt-1 pr-1 float-right">
-                            <img className="box-image" src={img2} alt="Forest"/>
+                            <img className="box-image img-responsive" src={img2} alt="Forest"/>
                         </div>
                         <div className="column pt-1 pr-1 float-right">
-                            <img className="box-image" src={img3} alt="Mountains"/>
+                            <img className="box-image img-responsive" src={img3} alt="Mountains"/>
                         </div>
                         <div className="column pt-1 pr-1 float-right">
-                            <img className="box-image" src={img4} alt="Mountains"/>
+                            <img className="box-image img-responsive" src={img4} alt="Mountains"/>
                         </div>
                         <div className="column pt-1 pr-1 float-right">
-                            <img className="box-image" src={img5} alt="Mountains"/>
+                            <img className="box-image img-responsive" src={img5} alt="Mountains"/>
                         </div>
                         <div className="column pt-1 pr-1 float-right">
-                            <img className="box-image" src={img6} alt="Mountains"/>
+                            <img className="box-image img-responsive" src={img6} alt="Mountains"/>
                         </div>
                 </div>
             </div>
