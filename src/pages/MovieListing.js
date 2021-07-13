@@ -7,7 +7,7 @@ import chillContext from '../context/chillContext';
 const MovieListing = () => {
     const { movieListings, setMovieListing } = useContext(chillContext);
     useEffect(() => {
-        fetch("http://localhost:5000/movielistings")
+        fetch("https://db-json-ass1.herokuapp.com/movielistings")
             .then(res => {
                 return res.json();
             })

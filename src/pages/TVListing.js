@@ -9,7 +9,7 @@ const TVListing = () => {
     const {tvListings, setTVListing} = useContext(chillContext);
 
     useEffect(() => {
-        fetch("http://localhost:5000/tvListings")
+        fetch("https://db-json-ass1.herokuapp.com/tvListings")
             .then(res => {
                 return res.json();
             })

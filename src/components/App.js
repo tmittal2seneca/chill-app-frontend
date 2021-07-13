@@ -24,7 +24,7 @@ function App() {
   const [tvListings, setTVListing] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/homePageImages")
+    fetch("https://db-json-ass1.herokuapp.com/homePageImages")
       .then(res => {
         return res.json();
       })
