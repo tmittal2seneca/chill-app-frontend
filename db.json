@@ -80,62 +80,122 @@
         { 
             "id": 1, 
             "path": "mwt1.jpg",
-            "className": "gallery__item gallery__item--1"
+            "className": "gallery__item gallery__item--1",
+            "title": "UP",
+            "synopsis": "Carl Fredricksen, a 78-year-old balloon salesman, is about to fulfill a lifelong dream. Tying thousands of balloons to his house, he flies away to the South American wilderness. But curmudgeonly Carl's worst nightmare comes true when he discovers a little boy named Russell is a stowaway aboard the balloon-powered house. A Pixar animation.",
+            "largeposter": "mwt1.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 14.99
         },
         { 
             "id": 2, 
             "path": "mwt2.jpg",
-            "className": "gallery__item gallery__item--2"
+            "className": "gallery__item gallery__item--2",
+            "title": "Freeway",
+            "synopsis": "Following the arrest of her mother, Ramona (Amanda Plummer), young Vanessa Lutz (Reese Witherspoon) decides to go in search of her estranged grandmother. On the way, she is given a ride by school counselor Bob Wolverton (Kiefer Sutherland). During the journey, Lutz begins to realize that Bob is the notorious I-5 Killer and manages to escape by shooting him several times. Wounded but still very much alive, Bob pursues Lutz across the state in this modern retelling of Little Red Riding Hood.",
+            "largeposter": "mwt2.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 12.99
         },
         { 
             "id": 3, 
             "path": "mwt3.jpg",
-            "className": "gallery__item gallery__item--3"
+            "className": "gallery__item gallery__item--3",
+            "title": "Guardians of the galaxy",
+            "synopsis": "Brash space adventurer Peter Quill (Chris Pratt) finds himself the quarry of relentless bounty hunters after he steals an orb coveted by Ronan, a powerful villain. To evade Ronan, Quill is forced into an uneasy truce with four disparate misfits: gun-toting Rocket Raccoon, treelike-humanoid Groot, enigmatic Gamora, and vengeance-driven Drax the Destroyer. But when he discovers the orb's true power and the cosmic threat it poses, Quill must rally his ragtag group to save the universe.",
+            "largeposter": "mwt3.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 13.99
         },
         { 
             "id": 4, 
             "path": "mwt4.jpg",
-            "className": "gallery__item gallery__item--4"
+            "className": "gallery__item gallery__item--4",
+            "title": "Red Dragon",
+            "synopsis": "Ex-FBI agent Will Graham (Edward Norton) is an expert investigator who quit the Bureau after almost losing his life in the process of capturing the elusive Dr. Lecter (Anthony Hopkins). After a series of particularly grisly murders, Graham soon realizes that the best way to catch this killer, known as the Tooth Fairy, is to find a way to get inside the killer's mind. For Graham, that means confronting his past and facing his former nemesis, the now-incarcerated Lecter.",
+            "largeposter": "mwt4.jpg",
+            "rentprice": 4.99,
+            "purchaseprice": 14.99
         },
         { 
             "id": 5, 
             "path": "mwt5.jpg",
-            "className": "gallery__item gallery__item--5"
+            "className": "gallery__item gallery__item--5",
+            "title": "Thugs of Hindustan",
+            "synopsis": "In 1795, British forces fiercely fight for supremacy in the Indian Ocean; their opponents are Indian criminals, who are known as 'thugs', and they wage cruel battles over the existing trade routes.",
+            "largeposter": "mwt5.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 13.99
         },
         { 
             "id": 6, 
             "path": "mwt6.jpg",
-            "className": "gallery__item gallery__item--6"
+            "className": "gallery__item gallery__item--6",
+            "title": "Flight 666",
+            "synopsis": "Unseen forces attack the passengers and crew on an international flight. As the people fight to stay alive, they realise that the unseen forces are the spirits of murdered girls. The spirits are trying to stop their killer, who is onboard the plane.",
+            "largeposter": "mwt6.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 11.49
         },
         { 
             "id": 7, 
             "path": "mwt7.jpg",
-            "className": "gallery__item gallery__item--7"
+            "className": "gallery__item gallery__item--7",
+            "title": "Titanic",
+            "synopsis": "James Cameron's `Titanic` is an epic, action-packed romance set against the ill-fated maiden voyage of the R.M.S. Titanic; the pride and joy of the White Star Line and, at the time, the largest moving object ever built. She was the most luxurious liner of her era -- the `ship of dreams` -- which ultimately carried over 1,500 people to their death in the ice cold waters of the North Atlantic in the early hours of April 15, 1912.",
+            "largeposter": "mwt7.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 14.59
         },
         { 
             "id": 8, 
             "path": "mwt8.jpg",
-            "className": "gallery__item gallery__item--8"
+            "className": "gallery__item gallery__item--8",
+            "title": "Han Solo",
+            "synopsis": "Young Han Solo finds adventure when he joins forces with a gang of galactic smugglers and a 190-year-old Wookie named Chewbacca. Indebted to the gangster Dryden Vos, the crew devises a daring plan to travel to the mining planet Kessel to steal a batch of valuable coaxium. In need of a fast ship, Solo meets Lando Calrissian, the suave owner of the perfect vessel for the dangerous mission -- the Millennium Falcon.",
+            "largeposter": "mwt8.jpg",
+            "rentprice": 4.99,
+            "purchaseprice": 15.99
         },
         { 
             "id": 9, 
             "path": "mwt9.jpg",
-            "className": "gallery__item gallery__item--9"
+            "className": "gallery__item gallery__item--9",
+            "title": "The Last Lions",
+            "synopsis": "When a rival pride attacks and kills her mate, lioness Ma di Tau faces an arduous battle to preserve the lives of herself and her three cubs. She knows the conquering lions will kill her offspring if they are found, so she leads them to Duba Island. There, she and her cubs face additional danger from the hungry crocodiles and the fierce water buffalo.",
+            "largeposter": "mwt9.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 12.99
         },
         { 
             "id": 10, 
             "path": "mwt10.jpg",
-            "className": "gallery__item gallery__item--10"
+            "className": "gallery__item gallery__item--10",
+            "title": "Jumanji: The next level",
+            "synopsis": "When Spencer goes back into the fantastical world of Jumanji, pals Martha, Fridge and Bethany re-enter the game to bring him home. But the game is now broken -- and fighting back. Everything the friends know about Jumanji is about to change, as they soon discover there's more obstacles and more danger to overcome.",
+            "largeposter": "mwt10.jpg",
+            "rentprice": 4.99,
+            "purchaseprice": 12.99
         },
         { 
             "id": 11, 
             "path": "mwt11.jpg",
-            "className": "gallery__item gallery__item--11"
+            "className": "gallery__item gallery__item--11",
+            "title": "Angel Eyes",
+            "synopsis": "While pursuing a suspect one night, Chicago Police officer Sharon Pogue (Jennifer Lopez) nearly becomes the victim of a fatal ambush until a mysterious stranger, Catch (Jim Caviezel), intervenes, disarms the assassin and saves Sharon's life. A concerned citizen who just happened to pass by at the right time? But Sharon and Catch have met once before. As the two fall in love, they discover the truth about each other and are forced to deal with the secrets from their past.",
+            "largeposter": "mwt11.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 12.59
         },
         { 
             "id": 12, 
             "path": "mwt12.jpg",
-            "className": "gallery__item gallery__item--12"
+            "className": "gallery__item gallery__item--12",
+            "title": "Tea",
+            "synopsis": "In a visceral modern thriller from the director of Lone Survivor, Mark Wahlberg stars as James Silva, an operative of the CIA's most highly-prized and least-understood unit. Aided by a top-secret tactical command team, Silva must retrieve and transport an asset who holds life-threatening information to Mile 22 for extraction before the enemy closes in.",
+            "largeposter": "mwt12.jpg",
+            "rentprice": 1.99,
+            "purchaseprice": 9.99
         }
     ],
     "tvListings": 
@@ -143,62 +203,122 @@
         { 
             "id": 1, 
             "path": "twt1.jpg",
-            "className": "gallery__item gallery__item--1"
+            "className": "gallery__item gallery__item--1",
+            "title": "The Big Bang Theory",
+            "synopsis": "The Big Bang Theory is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of `beautiful minds` that understand how the universe works. But none of that genius helps them interact with people, especially women. ... However, Leonard sees in Penny a whole new universe of possibilities - including love.",
+            "largeposter": "twt1.jpg",
+            "rentprice": 4.99,
+            "purchaseprice": 14.99
         },
         { 
             "id": 2, 
             "path": "twt2.jpg",
-            "className": "gallery__item gallery__item--2"
+            "className": "gallery__item gallery__item--2",
+            "title": "Friends",
+            "synopsis": "Friends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.",
+            "largeposter": "twt2.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 9.99
         },
         { 
             "id": 3, 
             "path": "twt3.jpg",
-            "className": "gallery__item gallery__item--3"
+            "className": "gallery__item gallery__item--3",
+            "title": "Manifest",
+            "synopsis": "Manifest is an American supernatural drama television series, created by Jeff Rake, that premiered on September 24, 2018 on NBC. It centers on the passengers and crew of a commercial airliner who suddenly reappear after being presumed dead for more than five years.",
+            "largeposter": "twt3.jpg",
+            "rentprice": 1.99,
+            "purchaseprice": 9.99
         },
         { 
             "id": 4, 
             "path": "twt4.jpg",
-            "className": "gallery__item gallery__item--4"
+            "className": "gallery__item gallery__item--4",
+            "title": "Virgin River",
+            "synopsis": "The show chiefly follows the story of Melinda “Mel” Monroe (Alexandra Breckenridge), a nurse practitioner and midwife who uproots her big city existence after the death of her husband and chooses to start over by taking a job in the small, very remote California town of Virgin River.",
+            "largeposter": "twt4.jpg",
+            "rentprice": 4.99,
+            "purchaseprice": 15.99
         },
         { 
             "id": 5, 
             "path": "twt5.jpg",
-            "className": "gallery__item gallery__item--5"
+            "className": "gallery__item gallery__item--5",
+            "title": "Black Summer",
+            "synopsis": "Plot. A mother, torn from her daughter, embarks upon a harrowing journey, stopping at nothing to find her. Thrust alongside a small group of American refugees, she must brave a hostile new world and make brutal decisions during the most deadly summer of a zombie apocalypse.",
+            "largeposter": "twt5.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 10.99
         },
         { 
             "id": 6, 
             "path": "twt6.jpg",
-            "className": "gallery__item gallery__item--6"
+            "className": "gallery__item gallery__item--6",
+            "title": "Animal Kingdom",
+            "synopsis": "In this gritty Australian crime drama, young Joshua `J` Cody (James Frecheville) is taken in by his extended family after his mother dies of an overdose. This branch of the Cody clan, overseen by J's scheming grandmother, Janine (Jacki Weaver), is heavily involved in various criminal activities, and they quickly indoctrinate the boy into their way of life. However, J is given an opportunity to take a different route when a cop named Leckie (Guy Pearce) seeks to help him leave the family fold.",
+            "largeposter": "twt6.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 9.49
         },
         { 
             "id": 7, 
             "path": "twt7.jpg",
-            "className": "gallery__item gallery__item--7"
+            "className": "gallery__item gallery__item--7",
+            "title": "Love Island",
+            "synopsis": "LOVE ISLAND is the sizzling summer series based on the international smash hit and cultural phenomenon. The matchmaking begins as a group of single “Islanders” come together in a stunning villa in Las Vegas, ready to embark on a summer of dating, romance, and ultimately, relationships.",
+            "largeposter": "twt7.jpg",
+            "rentprice": 3.49,
+            "purchaseprice": 8.99
         },
         { 
             "id": 8, 
             "path": "twt8.jpg",
-            "className": "gallery__item gallery__item--8"
+            "className": "gallery__item gallery__item--8",
+            "title": "Alone",
+            "synopsis": "A cold-blooded killer hunts a widow in the wilderness after she escapes from his remote cabin in the Pacific Northwest.",
+            "largeposter": "twt8.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 12.99
         },
         { 
             "id": 9, 
             "path": "twt9.jpg",
-            "className": "gallery__item gallery__item--9"
+            "className": "gallery__item gallery__item--9",
+            "title": "Blindspot",
+            "synopsis": "Blindspot focuses on a mysterious tattooed woman who is found naked inside a travel bag in Times Square by the FBI. She has no recollection of her past or identity. They discover that her tattoos contain clues to crimes they must solve.",
+            "largeposter": "twt9.jpg",
+            "rentprice": 4.99,
+            "purchaseprice": 12.99
         },
         { 
             "id": 10, 
             "path": "twt10.jpg",
-            "className": "gallery__item gallery__item--10"
+            "className": "gallery__item gallery__item--10",
+            "title": "Too hot to handle",
+            "synopsis": "Too Hot to Handle on Netflix is a show that deals with a bunch of really beautiful people who are allowed to mingle with each other with a major catch. The show is created by Laura Gibson and is presented by a virtual assistant, Lana. The events of the series take place on an island.",
+            "largeposter": "twt10.jpg",
+            "rentprice": 1.99,
+            "purchaseprice": 9.49
         },
         { 
             "id": 11, 
             "path": "twt11.jpg",
-            "className": "gallery__item gallery__item--11"
+            "className": "gallery__item gallery__item--11",
+            "title": "Lucifer",
+            "synopsis": "The series revolves around the story of Lucifer Morningstar (Tom Ellis), the Devil, who abandons Hell for Los Angeles where he runs his own nightclub named Lux and becomes a consultant to the Los Angeles Police Department (LAPD).",
+            "largeposter": "twt11.jpg",
+            "rentprice": 2.99,
+            "purchaseprice": 9.99
         },
         { 
             "id": 12, 
             "path": "twt12.jpg",
-            "className": "gallery__item gallery__item--12"
+            "className": "gallery__item gallery__item--12",
+            "title": "Ted Lasso",
+            "synopsis": "Jason Sudeikis as Ted Lasso, an American football coach who led the Wichita State Shockers to a Division II National Collegiate Athletic Association championship. He is hired to coach AFC Richmond, an association football team. A folksy American, he is seen as unsophisticated but is smarter than he looks.",
+            "largeposter": "twt12.jpg",
+            "rentprice": 3.99,
+            "purchaseprice": 13.99
         }
     ]
 

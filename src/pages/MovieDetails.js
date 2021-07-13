@@ -12,13 +12,20 @@ const MovieDetails = () => {
 
     return (
         <div className="bg-dark">
-            <label className="pt-4 ml-4 text-light">Details</label><br></br><br></br>
             {movieListings.map(movieListing => {
                 return movieListing.id === selectedID &&
-                <figure className="gallery__item gallery__item--1">
-                    <img className="gallery-img h-100 w-100 mt-2 ml-2" src={movieListing.path} />
-                </figure>
+                <div className="detailsPage">
+                    <img className="details-img small-poster mt-4 ml-4" src={movieListing.path} />
+                    <h2 className="title-name text-light mt-4 ml-4">{movieListing.title}</h2>
+                    <label className="synopsis text-light ml-4">{movieListing.synopsis}</label>
+                    <figure class="large-poster">
+                        <img className="details-img mt-4" src={movieListing.largeposter} />
+                    </figure>
+                    <button className="rent-price text-light bg-primary w-50 h-50">Rent ${movieListing.rentprice}</button>
+                    <button className="purchase-price text-light bg-primary w-50 h-50">Buy ${movieListing.purchaseprice}</button>
+                    </div>
             })}
+            
         </div>
     );
 }

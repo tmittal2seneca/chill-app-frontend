@@ -15,11 +15,13 @@ import chillContext from '../context/chillContext';
 import MovieListing from "../pages/MovieListing";
 import TVListing from "../pages/TVListing";
 import MovieDetails from "../pages/MovieDetails";
+import TVDetails from "../pages/TVDetails";
 
 function App() {
 
   const [homePageImages, setHomePageImagesPath] = useState([]);
   const [movieListings, setMovieListing] = useState([]);
+  const [tvListings, setTVListing] = useState([]);
 
   useEffect(() => {
     fetch("http://localhost:5000/homePageImages")
@@ -37,7 +39,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <chillContext.Provider value={{ homePageImages, setHomePageImagesPath,movieListings, setMovieListing }}>
+        <chillContext.Provider value={{ homePageImages, setHomePageImagesPath, movieListings, setMovieListing, tvListings, setTVListing }}>
           <Route exact path="/">
             <Header />
             <HeroSection />
@@ -59,6 +61,11 @@ function App() {
           <Route exact path="/moviedetails">
             <Header />
             <MovieDetails />
+            <Footer />
+          </Route>
+          <Route exact path="/tvdetails">
+            <Header />
+            <TVDetails />
             <Footer />
           </Route>
         </chillContext.Provider>
